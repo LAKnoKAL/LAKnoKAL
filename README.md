@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=laknokal&hide=stars,contribs&count_private=true&show_icons=true)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=laknokal&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark)
 
 
 
